@@ -8,3 +8,5 @@ Manajemen buku pada ruang baca memanfaatkan database dan framework CodeIgniter.
 # Views :
 - view_buku.php
 - view.php
+# Libraries :
+- Grocery_CRUD.php
